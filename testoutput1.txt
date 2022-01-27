@@ -1,0 +1,35 @@
+Choice		Action
+------		------
+A		Add Team
+D		Display Team
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+A
+Please enter the Coach's information:
+Enter coach's first name:	Monty
+Enter coach's last name:	Williams
+Enter coach's years of experience:	5
+
+Please enter the Team's information:
+Enter teams name:	Suns
+Enter Team's city:	Phoenix
+What action would you like to perform?
+D
+Team’s name:	Suns from Phoenix
+Coach Information:
+Last Name:	Williams
+First Name:	Monty
+Years of Experience:	5
+What action would you like to perform?
+?
+Choice		Action
+------		------
+A		Add Team
+D		Display Team
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Q
